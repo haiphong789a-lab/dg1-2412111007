@@ -1,0 +1,13 @@
+=== 1. GET /api/health ===
+
+
+=== 2. GET /api/students?lop=CT2801 ===
+
+
+=== 3. GET /api/students/999 (404) ===
+
+
+=== 4. POST /api/students (400 - Diem ngoai 0-10) ===
+
+
+=== 5. POST /api/students (201 - Hop le) ===
